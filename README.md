@@ -9,8 +9,6 @@ This project is a **real-time color detection system** built using **Python and 
  **Live color switching** using keyboard shortcuts  
  **Real-time processing with OpenCV**  
 
-## 📷 Demo  
-![Demo GIF](link_to_your_demo_gif) *(Upload a GIF or screenshot and replace the link)*  
 
 Tech Stack  
 -Python
@@ -21,5 +19,5 @@ Tech Stack
 How to Run  
 *Clone the repository*
 ```sh
-git clone https://github.com/your-username/Color-Detection-OpenCV.git  
-cd Color-Detection-OpenCV
+git clone https://github.com/Sanchita2007/color_detector.git  
+cd color_detector
